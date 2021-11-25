@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'XINCHENGWEB'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0E0A187B00444E6A363406992628F0D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B0124CD8F15436497B1C0B35A64EA8C }}
           package: '*.jar'
